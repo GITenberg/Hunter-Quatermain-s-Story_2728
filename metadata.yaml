@@ -1,5 +1,8 @@
 _repo: Hunter-Quatermain-s-Story_2728
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Haggard, H. Rider (Henry Rider)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/365
     wikipedia: http://en.wikipedia.org/wiki/H._Rider_Haggard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2728#Hunter-Quatermain-s-Story
 gutenberg_bookshelf:
 - Movie Books
 - Adventure
